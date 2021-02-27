@@ -1,0 +1,7 @@
+Two types of data is used here :-
+
+1-Hourly basis 
+2-Daily basis
+
+
+A single csv file is uploaded here and all the data used is made by manipulated by this Data_of_Electric_Load.csv file.

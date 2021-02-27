@@ -1,0 +1,1 @@
+Linear Regression establishes a relationship between the dependent variable (Y) and one or more independent variables (X) using a best fit straight line.
